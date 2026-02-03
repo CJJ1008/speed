@@ -1,0 +1,5 @@
+multi SSD->DRAM read test  2026-02-03T12:35:59.316993
+dirs:
+  /jakovchen -> /dev/nvme0n1
+========================================================================================================================
+total_size	per_disk_size	avg_s	agg_GBps	agg_MBps	per_disk_MBps	used_direct	checksum
