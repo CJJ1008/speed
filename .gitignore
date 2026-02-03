@@ -19,4 +19,6 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xmltest/*.log
+TestResults.xml
+# 忽略test目录下的所有.log文件（适配你的SSD测试日志）
+test/*.log
